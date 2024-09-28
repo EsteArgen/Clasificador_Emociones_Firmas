@@ -4,6 +4,8 @@ _____________________________
 
  Este repositorio contiene el código y la documentación para un proyecto avanzado de clasificador de emociones que utiliza técnicas de aprendizaje profundo. El modelo, basado en Redes Neuronales Convolucionales (CNN), está diseñado para identificar y clasificar emociones humanas a partir de imágenes faciales.
 
+https://drive.google.com/file/d/1sT8FvJ-O2MOKwTHxFBktvSikeIDRD08o/view?usp=sharing
+
 
 # ✒️Analizador de firmas🖊️
 <span style="font-size: 24px;"></span>

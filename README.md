@@ -1,4 +1,4 @@
-# 😶‍🌫️😀😁🤢🥶🥵😵‍💫😪😖😠😶‍🌫️Clasificador_Emociones 😁🤢🥶🥵😵‍💫😪😭😰😓😖😠  
+# 😶‍🌫️😀😁🤢🥶Clasificador_Emociones 😁🤢🥶🥵😵‍💫  
 <span style="font-size: 24px;"></span>
 _____________________________
 
